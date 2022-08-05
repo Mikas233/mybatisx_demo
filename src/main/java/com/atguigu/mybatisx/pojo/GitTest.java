@@ -14,6 +14,9 @@ public class GitTest {
         System.out.println("GitTest Hot-Fix");
         System.out.println("GitTest Hot-Fix");
         System.out.println("GitTest PushTest");
+        
+        System.out.println("GitTest PullTest");
+        
 
     }
 }
